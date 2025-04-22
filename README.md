@@ -9,8 +9,8 @@ Check out the live version of the app here:
 
 ## 📸 Screenshots
 
-![Task List Screenshot](./assets/Screenshot-1)
-![Completed Task Screenshot](./assets/Screenshot-2)
+![Task List Screenshot](/assets/Screenshot-1.png)
+![Completed Task Screenshot](/assets/Screenshot-2.png)
 
 
 
