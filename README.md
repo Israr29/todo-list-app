@@ -5,7 +5,7 @@ A simple and responsive To-Do List web application to help you manage your daily
 ## 🚀 Live Demo
 
 Check out the live version of the app here:  
-👉 [View Live](https://your-live-demo-link.com) 
+👉 [Check out Live](https://endearing-sherbet-33a2c9.netlify.app/) 
 
 ## 📸 Screenshots
 
