@@ -1,10 +1,10 @@
-# 📝 To-Do List App
+# 📝 To-Do List App 
 
 A simple and responsive To-Do List web application to help you manage your daily tasks effectively.
 
 ## 🚀 Live Demo
 
-Check out the live version of the app here:  
+Check out the live version here:  
 👉 [Check out Live](https://endearing-sherbet-33a2c9.netlify.app/) 
 
 ## 📸 Screenshots
