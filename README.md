@@ -2,7 +2,7 @@
 
 A simple and responsive To-Do List web application to help you manage your daily tasks effectively.
 
-## 🚀 Live Demo
+## Live Demo
 
 Check out the live version here:  
 👉 [Check out Live](https://endearing-sherbet-33a2c9.netlify.app/) 
